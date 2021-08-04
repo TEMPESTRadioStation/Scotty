@@ -1,6 +1,6 @@
 # Scotty
 
-Scotty is a demonstartion software. It demonstrates how audio may be transmitted from a host computer by controlling 
+Scotty is a demonstration software. It demonstrates how audio may be transmitted from a host computer by controlling 
 GPU memory data transfers. Each memory transfer generates electromagnetic waves. By controlling the memory data
 tranfers, the software transmitts the data from the computer.
 Scotty was developed on an Asus G731GU-BI7N9 laptop with an nVIDIA GeForce GTX 1660 Ti GPU and
